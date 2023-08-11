@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leodan4
+- 👋 Hi, I’m @Leodan4 a.k.a Leo
 - 👀 I’m interested in Electrical Engineering and IoT
 - 🌱 I’m currently learning C and Arduino
 - 💞️ I’m looking to collaborate on IoT and robotic projects
